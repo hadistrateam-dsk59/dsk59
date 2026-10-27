@@ -1,0 +1,19 @@
+{
+  "name": "sim-sekolah-landing-page",
+  "version": "1.0.0",
+  "description": "Frontend Landing Page SIM Sekolah berdasarkan PRD v1.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "sim-sekolah",
+    "landing-page",
+    "frontend",
+    "education"
+  ],
+  "author": "SMAN 1 Unggulan Nusantara",
+  "license": "ISC"
+}
+
